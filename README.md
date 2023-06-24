@@ -28,5 +28,5 @@ All bounty-readable SCOPE will be copied to the clipboard ♥
 
 
 
-https://github.com/ILSLYFER/ExtensionGoogleGetScopehackerone/assets/67638136/dd090719-180f-43dd-979f-e65a54ccd186
+https://github.com/ILSLYFER/ExtensionGoogleGetScopehackerone/assets/67638136/5ba978be-94d2-4a03-bb90-53da342186ea
 
