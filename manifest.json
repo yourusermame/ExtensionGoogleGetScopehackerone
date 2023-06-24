@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Slyfer Tools - H1 SCOPE",
+  "version": "1.0",
+  "description": "Obtener Scope de Hackerone con 1 click ♥",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["popup.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
