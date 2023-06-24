@@ -23,4 +23,10 @@ When you press the example button in
 https://hackerone.com/reddit
 
 
-All the SCOPE Readable for bounty will be copied ♥
+All bounty-readable SCOPE will be copied to the clipboard ♥
+
+
+
+
+https://github.com/ILSLYFER/ExtensionGoogleGetScopehackerone/assets/67638136/dd090719-180f-43dd-979f-e65a54ccd186
+
