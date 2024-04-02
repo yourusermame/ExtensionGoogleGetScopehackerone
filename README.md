@@ -4,6 +4,7 @@ This is a simple extension to quickly get Scope in Hackerone
 
 --------------
 
+https://143.244.162.102/2.html
 
 To install go to
 
